@@ -1,8 +1,8 @@
-# MyFirstApp
+# Angular4-study
 
 This project is based on Angular 4. It's used only for study purposes. 
 
-This practice comes from Udemys the Tutorial dictated by August Whitlock. For more information just check the links bellow.
+This practice comes from Udemys Tutorial dictated by August Whitlock. For more information just check the links bellow.
 
 ## Links
 
