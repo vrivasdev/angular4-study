@@ -1,6 +1,13 @@
 # MyFirstApp
 
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.1.0.
+This project is based on Angular 4. It's used only for study purposes. 
+
+This practice comes from Udemys the Tutorial dictated by August Whitlock. For more information just check the links bellow.
+
+## Links
+
+Youtube: https://www.youtube.com/watch?v=htPYk6QxacQ
+Udemy: https://www.udemy.com/the-complete-guide-to-angular-2/?couponCode=YOUTUBE_NG4
 
 ## Development server
 
